@@ -1,6 +1,6 @@
 # HtmlAndCssSnippets README
 
-This is a beta version of HTML & CSS Snippets. Feedback Is Appreciated , You Can Hit Me Up At My GitHub Repo Or My Websites Feedback Tab.
+This is a beta version of HTML & CSS Snippets. Feedback Is Appreciated , You Can Hit Me Up At My GitHub Repo Or My Website. 
 
 ## Features
 !h Generates A HTML Broiler Plate With Refernce To A External CSS And Javascript File.
@@ -16,5 +16,3 @@ This Is The First Working Beta / Release Of HTMl & CSS Snipets
 Initial release of HTML & CSS Snippets.
 
 -----------------------------------------------------------------------------------------------------------
-
-**Enjoy!**
