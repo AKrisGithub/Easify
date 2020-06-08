@@ -9,6 +9,7 @@ This is a beta version of Html And Css Intellisense. Feedback Is Appreciated , Y
 
 !login Generates A Full Fledge Login System Using Firebase. Please Make A Account on http://firebase.google.com/. Inored To Get Your Info Go To Your Console And Click On Web App Inorder To Get Your Info. Please Make Sure To Enable Google Auth, Facebook Auth, Email Auth And Phone Number auth In The Firebase Console.
 
+h.anim Is Used To Create Animated Text.
 ## Release Notes
 
 This Is The First Working Beta / Release Of Html And Css Intellisense.
@@ -24,9 +25,8 @@ Implemented One Touch Login System Which Features Google , Facebook , Email And 
 
 ## 1.0.2
 
-Implemented Animated Headings And A Fully Finctional Navbar Snippet.  
+Implemented Animated Headings And A Fully Finctional Navbar Snippet.
 
 -----------------------------------------------------------------------------------------------------------
 
 **Enjoy!**
-  
