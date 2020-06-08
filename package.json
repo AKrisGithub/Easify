@@ -1,0 +1,29 @@
+{
+    "name": "HtmlAndCssSnippets",
+    "displayName": "HTML & CSS Snippets",
+    "description": "This An Extension Which Generates Code Snippets For HTML & CSS. Other Languges Will Have Support Soon.",
+    "publisher": "Aditya Krishna",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Spectrum-Beta/HTML-Snippets.git"
+    },
+    "icon": "icon.png",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [{
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
