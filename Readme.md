@@ -1,3 +1,3 @@
-This is the Official repo of  HTML snippets.
+This is the Official repo of HTML & CSS snippets.
 
 -AK
