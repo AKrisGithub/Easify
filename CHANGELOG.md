@@ -5,4 +5,4 @@
 
 ## [1.0.1]
 
--Updated The Plugin (Login System)  
+- Updated The Plugin (Login System)
