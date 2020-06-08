@@ -1,0 +1,58 @@
+{
+    "HTML Broiler Plate With External CSS And Javascript": {
+        "prefix": "!h",
+        "body": [
+            "<!DOCTYPE html>",
+            "<html lang=\"en\">",
+            "$0",
+            "<head>",
+            "<meta charset=\"UTF-8\">",
+            "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+            "<link rel=\"stylesheet\" href=\"style.css\">",
+            "<title>${1:My Title}</title>",
+            "</head>",
+            "$0",
+            "<body>",
+            "$0",
+            "<main>",
+            "$0",
+            "</main>",
+            "$0",
+            "<script src=\"script.js\"></script>",
+            "</body>",
+            "$0",
+            "</html>"
+        ],
+        "description": "Generates A Html Broiler Plate With A External CSS And Javascript File."
+    },
+    "HTML Broiler Plate With Internal CSS And Javascript": {
+        "prefix": "!hcss",
+        "body": [
+            "<!DOCTYPE html>",
+            "<html lang=\"en\">",
+            "$0",
+            "<head>",
+            "<meta charset=\"UTF-8\">",
+            "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+            "<style>",
+            "$0",
+            "</style>",
+            "<title>${1:My Title}</title>",
+            "</head>",
+            "$0",
+            "<body>",
+            "$0",
+            "<main>",
+            "$0",
+            "</main>",
+            "$0",
+            "<script>",
+            "$0",
+            "</script>",
+            "</body>",
+            "$0",
+            "</html>"
+        ],
+        "description": "Generates A Html Broiler Plate With A Internal CSS And Javascript Tags."
+    }
+}
