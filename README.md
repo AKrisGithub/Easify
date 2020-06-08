@@ -22,6 +22,10 @@ Initial release of Html And Css Intellisense.
 
 Implemented One Touch Login System Which Features Google , Facebook , Email And Phone Number Authentication Using Firebase.
 
+## 1.0.2
+
+Implemented Animated Headings And A Fully Finctional Navbar Snippet.  
+
 -----------------------------------------------------------------------------------------------------------
 
 **Enjoy!**
