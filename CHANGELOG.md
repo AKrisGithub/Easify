@@ -9,4 +9,16 @@
 
 ## [1.0.2]
 
--Implemented Animated Headings And A Fully Functional Nav Bar.
+- Implemented Animated Headings And A Fully Functional Nav Bar.
+
+# [1.0.3]
+
+- Implemented A Fully Functional Nav Bar.
+
+# [1.0.4]
+
+- Finally Added Some CSS Snipets. Introduced Shortened Color Tags , Bg Color Tags For CSS.
+
+# [1.0.5]
+
+- Added Shortened Font Import Tag.
