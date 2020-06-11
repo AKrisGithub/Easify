@@ -1,0 +1,188 @@
+{
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#red",
+        "body": [
+            "color: red;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#orange",
+        "body": [
+            "color: orange;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#yellow",
+        "body": [
+            "color: yellow;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#green",
+        "body": [
+            "color: green;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#blue",
+        "body": [
+            "color: blue;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#purple",
+        "body": [
+            "color: purple;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#pink",
+        "body": [
+            "color: pink;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#brown",
+        "body": [
+            "color: brown;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#black",
+        "body": [
+            "color: black;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#grey",
+        "body": [
+            "color: grey;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#gray",
+        "body": [
+            "color: Gray;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#whitesmoke",
+        "body": [
+            "color: whitesmoke;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#white",
+        "body": [
+            "color: white;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "bg#red",
+        "body": [
+            "background-color: red;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "bg#orange",
+        "body": [
+            "background-color: orange;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "bg#yellow",
+        "body": [
+            "background-color: yellow;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "bg#green",
+        "body": [
+            "background-color: green;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "bg#blue",
+        "body": [
+            "background-color: blue;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "bg#purple",
+        "body": [
+            "background-color: purple;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "bg#pink",
+        "body": [
+            "background-color: pink;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "bg#brown",
+        "body": [
+            "background-color: brown;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "c#black",
+        "body": [
+            "background-color: black;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "bg#grey",
+        "body": [
+            "background-color: grey;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "bg#gray",
+        "body": [
+            "background-color: Gray;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "bg#whitesmoke",
+        "body": [
+            "background-color: whitesmoke;"
+        ]
+    },
+    "Creates A CSS Color Prpoperty": {
+        "prefix": "bg#white",
+        "body": [
+            "background-color: white;"
+        ]
+    },
+    "Shortened Import Tag": {
+        "prefix": "imp_roboto",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');"
+        ]
+    },
+    "Shortened Import Tag": {
+        "prefix": "imp_montserrat",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap');"
+        ]
+    },
+    "Shortened Import Tag": {
+        "prefix": "imp_dancing",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;562;600;700&display=swap');"
+        ]
+    },
+    "Shortened Import Tag": {
+        "prefix": "imp_balsamiq",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');"
+        ]
+    },
+    "Shortened Import Tag": {
+        "prefix": "imp_mania",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');"
+        ]
+    }
+}
