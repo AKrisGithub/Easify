@@ -145,7 +145,7 @@
         "description": "Generates A HTML Broiler Plate With A Fully Functional Login System"
     },
     "Creates A Animated Title": {
-        "prefix": "h.anim",
+        "prefix": "<hanim>",
         "body": [
             "<style>",
             "@-webkit-keyframes showTopText {",
@@ -291,7 +291,7 @@
         "description": "Generates A Animated Heading."
     },
     "Creates A Nav Bar": {
-        "prefix": "h.nav",
+        "prefix": "<hnav>",
         "body": [
             "<style>"
         "@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');",
@@ -330,5 +330,22 @@
             "</header>",
         ],
         "description": "Creates A Fully Functional Nav Bar."
+    },
+    "Creates A Header, Main And A Footer": {
+        "prefix": "<structure>",
+        "body": [
+            "<header>",
+            "$0",
+            "</header>",
+            "$0",
+            "<footer>",
+            "$0",
+            "</footer>",
+            "$0",
+            "<main>",
+            "$0",
+            "</main>",
+        ],
+        "description": "Creates A  Basic Html Body Stucture"
     }
 }
