@@ -9,19 +9,19 @@ This is a beta version of Html And Css Intellisense. Feedback Is Appreciated , Y
 
 !login Generates A Full Fledge Login System Using Firebase. Please Make A Account on http://firebase.google.com/. Inorder To Get Your Info Go To Your Console And Click On Web App Inorder To Get Your Info. Please Make Sure To Enable Google Auth, Facebook Auth, Email Auth And Phone Number auth In The Firebase Console.
 
-<hanim> Is Used To Create Animated Text.
+< hanim > Is Used To Create Animated Text. * No Spaces In Tag *
 
-<hnav> Is A Snippet Used To Generate A Fully Functional Nav Bar.
+< hnav > Is A Snippet Used To Generate A Fully Functional Nav Bar. * No Spaces In Tag *
 
-<structure> Is A Snippet Used To Create A Basic Html Body Structure
+< structure > Is A Snippet Used To Create A Basic Html Body Structure. * No Spaces In Tag *
 
 ## CSS
 
 Intoduced Css Snippets.
 
-C# Folowed By The Color Name Create The CSS Color Property Followed By The Specified Color. Example => c#red => color: red;
+C_ Folowed By The Color Name Create The CSS Color Property Followed By The Specified Color. Example => c_red => color: red;
 
-Bg# Is A Similar Snippet To C#. Its Used To Create The CSS Background Color Property.Example => Bg#red => background-color: red;
+Bg_ Is A Similar Snippet To C#. Its Used To Create The CSS Background Color Property.Example => Bg_red => background-color: red;
 
 ## Currently Supported Colors For Bg# And C#
 
@@ -67,7 +67,7 @@ Metal Mania => imp_mania
 
 ## Release Notes
 
-This Is The First Working Beta / Release Of Html And Css Intellisense.
+Patch Notes Of Html And Css Intelisense.
 
 ### 1.0.0
 
@@ -92,6 +92,10 @@ Finally Added Some CSS Snipets. Introduced Shortened Color Tags , Bg Color Tags 
 ## 1.0.5 
 
 Added Shortened Font Import Tag.
+
+## 1.0.6
+
+Fixed Issues Of C_ , Bg_ And Imp_ Not Working.
 
 -----------------------------------------------------------------------------------------------------------
 
