@@ -8,10 +8,15 @@
         "url": "https://github.com/Spectrum-Beta/HTML-Snippets.git"
     },
     "icon": "logo.png",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "engines": {
         "vscode": "^1.45.0"
     },
+    "keywords": [
+        "html",
+        "css",
+        "snippets"
+    ],
     "categories": [
         "Snippets"
     ],
