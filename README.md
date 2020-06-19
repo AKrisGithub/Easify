@@ -97,6 +97,11 @@ Added Shortened Font Import Tag.
 
 Fixed Issues Of C_ , Bg_ And Imp_ Not Working.
 
+## 1.0.7
+
+Rebranded As Easify. Changed Logo.
+
 -----------------------------------------------------------------------------------------------------------
 
-**Enjoy!**
+**Easify You Life!**
+        
