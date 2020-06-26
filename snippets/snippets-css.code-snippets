@@ -126,7 +126,7 @@
         ]
     },
     "Creates A Black CSS BG Color Prpoperty": {
-        "prefix": "c_black",
+        "prefix": "bg_black",
         "body": [
             "background-color: black;"
         ]
@@ -183,6 +183,54 @@
         "prefix": "imp_mania",
         "body": [
             "@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');"
+        ]
+    },
+    "Margin Top": {
+        "prefix": "m-t",
+        "body": [
+            "margin-top: ;"
+        ]
+    },
+    "Margin Bottom": {
+        "prefix": "m-b",
+        "body": [
+            "margin-bottom: ;"
+        ]
+    },
+    "Margin Left": {
+        "prefix": "m-l",
+        "body": [
+            "margin-left: ;"
+        ]
+    },
+    "Margin Right": {
+        "prefix": "m-r",
+        "body": [
+            "margin-right: ;"
+        ]
+    },
+    "Padding Top": {
+        "prefix": "p-t",
+        "body": [
+            "padding-top: ;"
+        ]
+    },
+    "Padding Bottom": {
+        "prefix": "p-b",
+        "body": [
+            "padding-bottom: ;"
+        ]
+    },
+    "Padding Right": {
+        "prefix": "p-r",
+        "body": [
+            "padding-right: ;"
+        ]
+    },
+    "Padding left": {
+        "prefix": "p-l",
+        "body": [
+            "padding-left: ;"
         ]
     }
 }
