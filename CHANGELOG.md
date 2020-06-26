@@ -1,3 +1,4 @@
+
 ## [1.0.0]
 
 - Initial release Of Html And Css Intellisense.
@@ -34,3 +35,12 @@
 ## [1.0.8]
 
 - Improved Search Results Due To Poor Downloads.
+
+## [1.0.9]
+
+- Fixed Bugs.
+
+## [1.1.0]
+
+- Added Shortened Margin And Padding ( Top,Bottom,Left And Right ) Snippets. Ex: m-b => margin-bottom , p-t => padding-top.
+
