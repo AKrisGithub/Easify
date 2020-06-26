@@ -19,6 +19,26 @@ This is a beta version of Html And Css Intellisense. Feedback Is Appreciated , Y
 
 Intoduced Css Snippets.
 
+Added Shortened Margin And Padding ( Top,Bottom,Left And Right ) Snippets. Ex: m-b => margin-bottom , p-t => padding-top.
+
+## Format Of Margin And Padding Snippets
+
+m-t => margin-top
+
+m-b => margin-bottom
+
+m-l => margin-left
+
+m-r => margin-right
+
+p-t => padding-top
+
+p-b => padding-bottom
+
+p-l => padding-left
+
+p-r => padding-right
+
 C_ Folowed By The Color Name Create The CSS Color Property Followed By The Specified Color. Example => c_red => color: red;
 
 Bg_ Is A Similar Snippet To C#. Its Used To Create The CSS Background Color Property.Example => Bg_red => background-color: red;
@@ -105,6 +125,15 @@ Rebranded As Easify. Changed Logo.
 ### 1.0.8
 
 Improved Search Results Due To Poor Downloads.
+
+
+### 1.0.9
+
+Fixed Bugs.
+
+### 1.1.0
+
+Added Shortened Margin And Padding ( Top,Bottom,Left And Right ) Snippets. Ex: m-b => margin-bottom , p-t => padding-top.
 
 -----------------------------------------------------------------------------------------------------------
 
