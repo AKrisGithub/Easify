@@ -1,14 +1,14 @@
 {
-    "name": "Easify",
-    "displayName": "Easify",
+    "name": "HtmlAndCssIntellisense",
+    "displayName": "Html And Css Intellisense | Easify",
     "description": "This An Extension Which Generates Code Snippets For HTML & CSS. Other Languges Will Have Support Soon.",
-    "publisher": "Aditya Krishna",
+    "publisher": "AdityaKrishna",
     "repository": {
         "type": "git",
         "url": "https://github.com/Spectrum-Beta/HTML-Snippets.git"
     },
     "icon": "logo.png",
-    "version": "1.0.7",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.45.0"
     },
@@ -16,7 +16,12 @@
         "html",
         "css",
         "intellisense",
-        "snippets"
+        "snippets",
+        "Html And Css Snippets",
+        "html and css snippets",
+        "Html And Css Intellisense",
+        "html and css intellisense",
+        "Easify"
     ],
     "categories": [
         "Snippets"
