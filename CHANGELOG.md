@@ -1,4 +1,3 @@
-
 ## [1.0.0]
 
 - Initial release Of Html And Css Intellisense.
@@ -31,3 +30,7 @@
 
 - Rebranded As Easify.
 - Changed Logo.
+
+## [1.0.8]
+
+- Improved Search Results Due To Poor Downloads.
