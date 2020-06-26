@@ -1,6 +1,6 @@
 # README
 
-This is a beta version of Easify. Feedback Is Appreciated , You Can Hit Me Up At My GitHub Repo Or My Website.
+This is a beta version of Html And Css Intellisense. Feedback Is Appreciated , You Can Hit Me Up At My GitHub Repo Or My Website.
 
 ## Features
 !h Generates A HTML Broiler Plate With Refernce To A External CSS And Javascript File.
@@ -101,7 +101,11 @@ Fixed Issues Of C_ , Bg_ And Imp_ Not Working.
 
 Rebranded As Easify. Changed Logo.
 
+
+## 1.0.8
+
+Improved Search Results Due To Poor Downloads.
+
 -----------------------------------------------------------------------------------------------------------
 
 **Easify You Life!**
-        
