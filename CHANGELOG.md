@@ -16,7 +16,7 @@
 
 ## [1.0.4]
 
-- Finally Added Some CSS Snipets. Introduced Shortened Color Tags , Bg Color Tags For CSS.
+- Finally Added Some CSS Snipets. Introduced Shortened Color And Bg Color Tags For CSS.
 
 ## [1.0.5]
 
