@@ -77,32 +77,32 @@ Initial release of Html And Css Intellisense.
 
 Implemented One Touch Login System Which Features Google , Facebook , Email And Phone Number Authentication Using Firebase.
 
-## 1.0.2
+### 1.0.2
 
 Implemented Animated Headings And A Fully Finctional Navbar Snippet.
 
-## 1.0.3
+### 1.0.3
 
 Implemented A Fully Functional Nav Bar.
 
-## 1.0.4
+### 1.0.4
 
 Finally Added Some CSS Snipets. Introduced Shortened Color Tags , Bg Color Tags For CSS.
 
-## 1.0.5 
+### 1.0.5 
 
 Added Shortened Font Import Tag.
 
-## 1.0.6
+### 1.0.6
 
 Fixed Issues Of C_ , Bg_ And Imp_ Not Working.
 
-## 1.0.7
+### 1.0.7
 
 Rebranded As Easify. Changed Logo.
 
 
-## 1.0.8
+### 1.0.8
 
 Improved Search Results Due To Poor Downloads.
 
