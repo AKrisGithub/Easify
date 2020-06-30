@@ -85,13 +85,19 @@ Balasmiq Sans => imp_balsamiq
 
 Metal Mania => imp_mania
 
+Yellowtail => imp_yello
+
+Notable => imp_notable
+
+Museo Moderno => imp_museo
+
 ## Release Notes
 
-Patch Notes Of Html And Css Intelisense.
+Patch Notes Of Html And Css Intelisense | Easify.
 
 ### 1.0.0
 
-Initial release of Html And Css Intellisense.
+Initial release of Html And Css Intellisense | Easify.
 
 ### 1.0.1
 
@@ -134,6 +140,26 @@ Fixed Bugs.
 ### 1.1.0
 
 Added Shortened Margin And Padding ( Top,Bottom,Left And Right ) Snippets. Ex: m-b => margin-bottom , p-t => padding-top.
+
+### 1.1.1
+
+Fixed Issue With < structure > Not Working As Intended.
+
+### 1.1.2
+
+Changed The Shortened Css Background And Color Snippets Syntax To c- And bg- instead of bg_ or c_.
+
+< scroll > Snippet Creates A Scroll Box. * No Spaces In Tag *
+
+New imp_ Fonts : 
+
+- Museo Moderno
+
+- Yellowtail
+
+- Notable 
+
+imp_ Syntaxes Are Available in The Section Above. Suggestions For New Fonts In My Github Page Or My Website Would Be Helpful.
 
 -----------------------------------------------------------------------------------------------------------
 
