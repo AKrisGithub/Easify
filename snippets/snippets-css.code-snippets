@@ -1,156 +1,156 @@
 {
     "Red CSS Color Property": {
-        "prefix": "c_red",
+        "prefix": "c-red",
         "body": [
             "color: red;"
         ]
     },
     "Orange CSS Color Property": {
-        "prefix": "c_orange",
+        "prefix": "c-orange",
         "body": [
             "color: orange;"
         ]
     },
     "Yellow CSS Color Property": {
-        "prefix": "c_yellow",
+        "prefix": "c-yellow",
         "body": [
             "color: yellow;"
         ]
     },
     "Green CSS Color Property": {
-        "prefix": "c_green",
+        "prefix": "c-green",
         "body": [
             "color: green;"
         ]
     },
     "Blue CSS Color Property": {
-        "prefix": "c_blue",
+        "prefix": "c-blue",
         "body": [
             "color: blue;"
         ]
     },
     "Purple CSS Color Property": {
-        "prefix": "c_purple",
+        "prefix": "c-purple",
         "body": [
             "color: purple;"
         ]
     },
     "Pink CSS Color Property": {
-        "prefix": "c_pink",
+        "prefix": "c-pink",
         "body": [
             "color: pink;"
         ]
     },
     "Brown CSS Color Property": {
-        "prefix": "c#brown",
+        "prefix": "c-brown",
         "body": [
             "color: brown;"
         ]
     },
     "Black CSS Color Property": {
-        "prefix": "c_black",
+        "prefix": "c-black",
         "body": [
             "color: black;"
         ]
     },
     "Grey CSS Color Property": {
-        "prefix": "c_grey",
+        "prefix": "c-grey",
         "body": [
             "color: grey;"
         ]
     },
     "Gray CSS Color Property": {
-        "prefix": "c_gray",
+        "prefix": "c-gray",
         "body": [
             "color: Gray;"
         ]
     },
     "Whitesmoke CSS Color Property": {
-        "prefix": "c_whitesmoke",
+        "prefix": "c-whitesmoke",
         "body": [
             "color: whitesmoke;"
         ]
     },
     "White CSS Color Property": {
-        "prefix": "c_white",
+        "prefix": "c-white",
         "body": [
             "color: white;"
         ]
     },
     "Creates A CSS Color Prpoperty": {
-        "prefix": "bg_red",
+        "prefix": "bg-red",
         "body": [
             "background-color: red;"
         ]
     },
     "Creates A Orange CSS BG Color Prpoperty": {
-        "prefix": "bg_orange",
+        "prefix": "bg-orange",
         "body": [
             "background-color: orange;"
         ]
     },
     "Creates A Yellow CSS BG Color Prpoperty": {
-        "prefix": "bg_yellow",
+        "prefix": "bg-yellow",
         "body": [
             "background-color: yellow;"
         ]
     },
     "Creates A Green CSS BG Color Prpoperty": {
-        "prefix": "bg_green",
+        "prefix": "bg-green",
         "body": [
             "background-color: green;"
         ]
     },
     "Creates A Blue CSS BG Color Prpoperty": {
-        "prefix": "bg_blue",
+        "prefix": "bg-blue",
         "body": [
             "background-color: blue;"
         ]
     },
     "Creates A Purple CSS BG Color Prpoperty": {
-        "prefix": "bg_purple",
+        "prefix": "bg-purple",
         "body": [
             "background-color: purple;"
         ]
     },
     "Creates A Pink CSS Color BG Prpoperty": {
-        "prefix": "bg_pink",
+        "prefix": "bg-pink",
         "body": [
             "background-color: pink;"
         ]
     },
     "Creates A Brown CSS BG Color Prpoperty": {
-        "prefix": "bg_brown",
+        "prefix": "bg-brown",
         "body": [
             "background-color: brown;"
         ]
     },
     "Creates A Black CSS BG Color Prpoperty": {
-        "prefix": "bg_black",
+        "prefix": "bg-black",
         "body": [
             "background-color: black;"
         ]
     },
     "Creates A Grey CSS Bg Color Prpoperty": {
-        "prefix": "bg_grey",
+        "prefix": "bg-grey",
         "body": [
             "background-color: grey;"
         ]
     },
     "Creates A Gray CSS BG Color Prpoperty": {
-        "prefix": "bg_gray",
+        "prefix": "bg-gray",
         "body": [
             "background-color: Gray;"
         ]
     },
     "Creates A WhiteSmoke CSS BG Color Prpoperty": {
-        "prefix": "bg_whitesmoke",
+        "prefix": "bg-whitesmoke",
         "body": [
             "background-color: whitesmoke;"
         ]
     },
     "Creates A White CSS BG Color Prpoperty": {
-        "prefix": "bg_white",
+        "prefix": "bg-white",
         "body": [
             "background-color: white;"
         ]
@@ -177,6 +177,24 @@
         "prefix": "imp_balsamiq",
         "body": [
             "@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');"
+        ]
+    },
+    "Shortened Import Tag For Museo Moderno": {
+        "prefix": "imp_museo",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@100;200;300;400;500;600;700;800&display=swap');"
+        ]
+    },
+    "Shortened Import Tag For Yellowtail": {
+        "prefix": "imp_yello",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');"
+        ]
+    },
+    "Shortened Import Tag For Notable": {
+        "prefix": "imp_notable",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');"
         ]
     },
     "Shortened Import Tag For Metal Mania": {
