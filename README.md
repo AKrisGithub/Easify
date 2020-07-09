@@ -15,13 +15,15 @@ This is a beta version of Html And Css Intellisense. Feedback Is Appreciated , Y
 
 < structure > Is A Snippet Used To Create A Basic Html Body Structure. * No Spaces In Tag *
 
+< scroll > Is A Snippet used To Create A Scroll Box. * No Spaces In Tag *
+
 ## CSS
 
 Intoduced Css Snippets.
 
 Added Shortened Margin And Padding ( Top,Bottom,Left And Right ) Snippets. Ex: m-b => margin-bottom , p-t => padding-top.
 
-## Format Of Margin And Padding Snippets
+### Format Of Margin And Padding Snippets
 
 m-t => margin-top
 
@@ -39,11 +41,11 @@ p-l => padding-left
 
 p-r => padding-right
 
-C_ Folowed By The Color Name Create The CSS Color Property Followed By The Specified Color. Example => c_red => color: red;
+C- Folowed By The Color Name Create The CSS Color Property Followed By The Specified Color. Example => c-red => color: red;
 
-Bg_ Is A Similar Snippet To C#. Its Used To Create The CSS Background Color Property.Example => Bg_red => background-color: red;
+Bg- Is A Similar Snippet To C#. Its Used To Create The CSS Background Color Property.Example => Bg-red => background-color: red;
 
-## Currently Supported Colors For Bg# And C#
+### Currently Supported Colors For Bg- And C-
 
 Red
 
@@ -73,23 +75,33 @@ whitesmoke
 
 imp_ Is A Shortened Snippet For The CSS Import Font Property. Jut Type imp_ followed By The Name Of The Font.
 
-## Fonts Currently Spported For Imp_
+### Fonts Currently Spported For Imp_
 
-Roboto => imp_roboto
+- Roboto => imp-roboto
 
-Montserrat => imp_montserrat
+- Montserrat => imp-montserrat
 
-Dancing Script => imp_dancing
+- Dancing Script => imp-dancing
 
-Balasmiq Sans => imp_balsamiq
+- Balasmiq Sans => imp-balsamiq
 
-Metal Mania => imp_mania
+- Metal Mania => imp-mania
 
-Yellowtail => imp_yello
+- Yellowtail => imp-yello
 
-Notable => imp_notable
+- Notable => imp-notable
 
-Museo Moderno => imp_museo
+- Museo Moderno => imp-museo
+
+- Grenze Gotisch => imp-grenze
+
+- Bangers => imp-bang
+
+- Modak => imp-modak
+
+- Fondamento => imp-fond
+
+- Pacifico => imp-pacific
 
 ## Release Notes
 
@@ -113,15 +125,15 @@ Implemented A Fully Functional Nav Bar.
 
 ### 1.0.4
 
-Finally Added Some CSS Snipets. Introduced Shortened Color Tags , Bg Color Tags For CSS.
+Finally Added Some CSS Snipets. Introduced Shortened Color Tags , Bg Color Tags For CSS ( bg-color, c-color ).
 
 ### 1.0.5 
 
-Added Shortened Font Import Tag.
+Added Shortened Font Import Tag ( imp-fontname ).
 
 ### 1.0.6
 
-Fixed Issues Of C_ , Bg_ And Imp_ Not Working.
+Fixed Issues Of C- , Bg- And Imp- Not Working.
 
 ### 1.0.7
 
@@ -151,7 +163,7 @@ Changed The Shortened Css Background And Color Snippets Syntax To c- And bg- ins
 
 < scroll > Snippet Creates A Scroll Box. * No Spaces In Tag *
 
-New imp_ Fonts : 
+#### New Fonts : 
 
 - Museo Moderno
 
@@ -159,7 +171,27 @@ New imp_ Fonts :
 
 - Notable 
 
-imp_ Syntaxes Are Available in The Section Above. Suggestions For New Fonts In My Github Page Or My Website Would Be Helpful.
+imp- Syntaxes Are Available in The Section Above. Suggestions For New Fonts In My Github Page Or My Website Would Be Helpful.
+
+### 1.1.3
+
+Bug Fixes.
+
+### 1.1.4
+
+Added New Imp Fonts And Changed The Syntax Of Import Font From imp_ To imp-.
+
+#### New Fonts :
+
+- Grenze Gotisch
+
+- Bangers 
+
+- Modak
+
+- Fondamento
+
+- Pacifico
 
 -----------------------------------------------------------------------------------------------------------
 
