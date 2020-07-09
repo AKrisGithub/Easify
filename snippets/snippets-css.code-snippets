@@ -131,7 +131,7 @@
             "background-color: black;"
         ]
     },
-    "Creates A Grey CSS BG Color Prpoperty": {
+    "Creates A Grey CSS Bg Color Prpoperty": {
         "prefix": "bg-grey",
         "body": [
             "background-color: grey;"
@@ -156,49 +156,79 @@
         ]
     },
     "Shortened Import Tag For Roboto": {
-        "prefix": "imp_roboto",
+        "prefix": "imp-roboto",
         "body": [
             "@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');"
         ]
     },
     "Shortened Import Tag For Montserrat": {
-        "prefix": "imp_montserrat",
+        "prefix": "imp-montserrat",
         "body": [
             "@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap');"
         ]
     },
     "Shortened Import Tag For Dancing Script": {
-        "prefix": "imp_dancing",
+        "prefix": "imp-dancing",
         "body": [
             "@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;562;600;700&display=swap');"
         ]
     },
     "Shortened Import Tag For Balsamiq Sans": {
-        "prefix": "imp_balsamiq",
+        "prefix": "imp-balsamiq",
         "body": [
             "@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');"
         ]
     },
     "Shortened Import Tag For Museo Moderno": {
-        "prefix": "imp_museo",
+        "prefix": "imp-museo",
         "body": [
             "@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@100;200;300;400;500;600;700;800&display=swap');"
         ]
     },
     "Shortened Import Tag For Yellowtail": {
-        "prefix": "imp_yello",
+        "prefix": "imp-yello",
         "body": [
             "@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');"
         ]
     },
     "Shortened Import Tag For Notable": {
-        "prefix": "imp_notable",
+        "prefix": "imp-notable",
         "body": [
             "@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');"
         ]
     },
+    "Shortened Import Tag For Grenze Gotisch": {
+        "prefix": "imp-grenze",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100;200;300;400;500;600;700;800;900&display=swap');"
+        ]
+    },
+    "Shortened Import Tag For Bangers": {
+        "prefix": "imp-bang",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');"
+        ]
+    },
+    "Shortened Import Tag For Modak": {
+        "prefix": "imp-modak",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');"
+        ]
+    },
+    "Shortened Import Tag For Fondamento": {
+        "prefix": "imp-fond",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Fondamento:ital@0;1&display=swap');"
+        ]
+    },
+    "Shortened Import Tag For Pacifico": {
+        "prefix": "imp-pacific",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');"
+        ]
+    },
     "Shortened Import Tag For Metal Mania": {
-        "prefix": "imp_mania",
+        "prefix": "imp-mania",
         "body": [
             "@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');"
         ]
