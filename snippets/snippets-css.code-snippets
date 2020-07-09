@@ -131,7 +131,7 @@
             "background-color: black;"
         ]
     },
-    "Creates A Grey CSS Bg Color Prpoperty": {
+    "Creates A Grey CSS BG Color Prpoperty": {
         "prefix": "bg-grey",
         "body": [
             "background-color: grey;"
