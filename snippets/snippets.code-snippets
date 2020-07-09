@@ -117,7 +117,7 @@
             "// Will use popup for IDP Providers sign-in flow instead of the default, redirect.",
             "signInFlow: 'popup',",
             "signInSuccessUrl: '#',",
-            "// If Login Is Succesful Redirection will take place using this comand just type the name of the file",
+            "// If Login Is Succesful Redirection will take place using this command just type the name of the file",
             "signInOptions: [",
             "//Authentacation Provider",
             "firebase.auth.GoogleAuthProvider.PROVIDER_ID,",
