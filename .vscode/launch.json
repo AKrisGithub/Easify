@@ -5,9 +5,9 @@
             "name": "Extension",
             "type": "extensionHost",
             "request": "launch",
-            "runtimeExecutable": "${execPath}",
+            "runtimeExecutable": "${vpx}",
             "args": [
-                "--extensionDevelopmentPath=${workspaceFolder}"
+                "--extensionDevelopmentPath=${vpx}"
             ]
         }
     ]
