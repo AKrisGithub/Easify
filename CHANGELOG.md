@@ -1,3 +1,4 @@
+
 ## [1.0.0]
 
 - Initial release Of Html And Css Intellisense.
@@ -16,15 +17,15 @@
 
 ## [1.0.4]
 
-- Finally Added Some CSS Snipets. Introduced Shortened Color And Bg Color Tags For CSS.
+- Finally Added Some CSS Snipets. Introduced Shortened Color And Bg Color Tags For CSS ( bg-color, c-color ).
 
 ## [1.0.5]
 
-- Added Shortened Font Import Tag.
+- Added Shortened Font Import Tag ( imp-fontname ).
 
 ## [1.0.6]
 
-- Fixed Issues Of C_ , Bg_ And Imp_ Not Working.
+- Fixed Issues Of C- , Bg- And Imp- Not Working.
 
 ## [1.0.7]
 
@@ -62,3 +63,23 @@
     - Notable 
 
 Suggestions For New Fonts In My Github Page Or My Website Would Be Helpful.
+
+## [1.1.3]
+
+- Bug Fixes.
+
+## [1.1.4]
+
+Added New Imp Fonts And Changed The Syntax Of Import Font From imp_ To imp-.
+
+#### New Fonts :
+
+- Grenze Gotisch
+
+- Bangers 
+
+- Modak
+
+- Fondamento
+
+- Pacifico
