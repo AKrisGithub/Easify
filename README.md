@@ -17,6 +17,10 @@ This is a beta version of Html And Css Intellisense. Feedback Is Appreciated , Y
 
 < scroll > Is A Snippet used To Create A Scroll Box. * No Spaces In Tag *
 
+< mar > Is A Snippet That Cretes A Scrolling Text Animation * No spaces in tag *.
+
+< switch > Is A Snippet That Creates A Switchmenu * No spaces in tag *.
+
 ## CSS
 
 Intoduced Css Snippets.
@@ -192,6 +196,11 @@ Added New Imp Fonts And Changed The Syntax Of Import Font From imp_ To imp-.
 - Fondamento
 
 - Pacifico
+
+### 1.1.5
+
+- Added A Scrolling Text Tag In HTML  Called < mar > * No spaces in tag *.
+- Added A Switchmenu In HTML called < switch > * No spaces in tag *.
 
 -----------------------------------------------------------------------------------------------------------
 
