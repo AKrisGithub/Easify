@@ -1,4 +1,3 @@
-
 ## [1.0.0]
 
 - Initial release Of Html And Css Intellisense.
@@ -51,7 +50,6 @@
 ## [1.1.2]
 
 - Changed The Shortened Css Background And Color Snippets Syntax To c- And bg- instead of bg_ or c_.
-
 - < scroll > Snippet Creates A Scroll Box. * No Spaces In Tag *
 
 - New imp_ Fonts : 
@@ -83,3 +81,8 @@ Added New Imp Fonts And Changed The Syntax Of Import Font From imp_ To imp-.
 - Fondamento
 
 - Pacifico
+
+## [1.1.5]
+
+- Added A Scrolling Text Tag In HTML  Called < mar > * No spaces in tag *.
+- Added A Switchmenu In HTML called < switch > * No spaces in tag *.
