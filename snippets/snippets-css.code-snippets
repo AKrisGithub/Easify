@@ -1,4 +1,3 @@
-
 {
     "Red CSS Color Property": {
         "prefix": "c-red",
@@ -232,6 +231,24 @@
         "prefix": "imp-mania",
         "body": [
             "@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');"
+        ]
+    },
+    "Shortened Import Tag For Oswald": {
+        "prefix": "imp-oswa",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;469;500;600;700&display=swap');"
+        ]
+    },
+    "Shortened Import Tag For Lobster": {
+        "prefix": "imp-lob",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');"
+        ]
+    },
+    "Shortened Import Tag For Damion": {
+        "prefix": "imp-dam",
+        "body": [
+            "@import url('https://fonts.googleapis.com/css2?family=Damion&display=swap');"
         ]
     },
     "Margin Top": {
