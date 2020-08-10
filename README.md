@@ -77,9 +77,9 @@ White
 
 whitesmoke
 
-imp_ Is A Shortened Snippet For The CSS Import Font Property. Jut Type imp_ followed By The Name Of The Font.
+imp- Is A Shortened Snippet For The CSS Import Font Property. Jut Type imp_ followed By The Name Of The Font.
 
-### Fonts Currently Spported For Imp_
+### Fonts Currently Spported For Imp-
 
 - Roboto => imp-roboto
 
@@ -106,6 +106,12 @@ imp_ Is A Shortened Snippet For The CSS Import Font Property. Jut Type imp_ foll
 - Fondamento => imp-fond
 
 - Pacifico => imp-pacific
+
+- Oswald => imp-oswa
+
+- Lobster => imp-lob
+ 
+- Damion => imp-damion
 
 ## Release Notes
 
@@ -202,6 +208,30 @@ Added New Imp Fonts And Changed The Syntax Of Import Font From imp_ To imp-.
 - Added A Scrolling Text Tag In HTML  Called < mar > * No spaces in tag *.
 - Added A Switchmenu In HTML called < switch > * No spaces in tag *.
 
+### 1.1.6
+
+- Bug Fixes. 
+
+### 1.1.7
+
+- Issues With The Extension Has Been Addressed And Fixed If You Face Any Issues With The Extension Not Working As Intended Please Report It At My Github Page @ https://github.com/Spectrum-Beta/HTML-Snippets/issues
+
+### 1.1.8
+
+- First Of All Im So Sorry For The Massive Update Delay.
+
+- New Fonts In The Css Snippets :
+
+#### New Fonts :
+
+- Oswald
+
+- Lobster
+ 
+- Damion
+
+- Font Syntaxes Can Be Found In The Font Section Up Above.
+ 
 -----------------------------------------------------------------------------------------------------------
 
 **Easify You Life!**
