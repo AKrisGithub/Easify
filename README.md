@@ -231,6 +231,14 @@ Added New Imp Fonts And Changed The Syntax Of Import Font From imp_ To imp-.
 - Damion
 
 - Font Syntaxes Can Be Found In The Font Section Up Above.
+
+### 1.1.9
+
+Before We Move Into The Patch Notes I'd Like To Apologize For The Long Update Cycle.
+
+- Improved Search Results.
+- Easify Icon Redesign.
+- Fixed Bugs.
  
 -----------------------------------------------------------------------------------------------------------
 
